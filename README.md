@@ -1,3 +1,3 @@
 # Проект «Сложно сосредоточиться»
 
-https://github.com/mgodun/slozhno-sosredotochitsya
+<https://github.com/mgodun/slozhno-sosredotochitsya>
